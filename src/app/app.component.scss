@@ -1,0 +1,6 @@
+.div-1 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: max-content auto max-content;
+}
+
